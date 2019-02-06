@@ -1,19 +1,19 @@
 == "Old-style" h3s
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
+Lorem ipsum schmolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
 incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
 exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 [.old-style]
 === A Description of Babylon / For the Sake of the Daughters of Zion / Who Presently Dwell in Her Midst.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
+Lorem ipsum schmolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
 incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
 exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 [.old-style.bold]
 === SOME PROPOSITIONS / Concerning the Apostasy From the Way of Life
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
+Lorem ipsum schmolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
 incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
 exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
