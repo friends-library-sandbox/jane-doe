@@ -1,6 +1,6 @@
 == Chapter with some sub-headings
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
+Lorem ipsum schmolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
 incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
 exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 This line ends with emdash--
@@ -9,33 +9,33 @@ and here the sentence finishes.
 
 === A level 3 heading
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse pariatur.
+Duis aute irure schmolor in reprehenderit in voluptate velit esse pariatur.
 Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
 mollit anim id est laborum.
 
 ==== A level 4 heading
 
-Duis aute irure "`dolor`" in reprehenderit in voluptate velit esse pariatur.
+Duis aute irure "`schmolor`" in reprehenderit in voluptate velit esse pariatur.
 Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
 mollit anim id est laborum.
 
 [.alt]
 ==== An "alternate" level 4 heading
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse pariatur.
+Duis aute irure schmolor in reprehenderit in voluptate velit esse pariatur.
 Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
 mollit anim id est laborum.
 
 [.alt]
 === An "alternate" level 3 heading
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse pariatur.
+Duis aute irure schmolor in reprehenderit in voluptate velit esse pariatur.
 Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
 mollit anim id est laborum.
 
 [.centered]
 === Centered H3
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse pariatur.
+Duis aute irure schmolor in reprehenderit in voluptate velit esse pariatur.
 Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
 mollit anim id est laborum.
