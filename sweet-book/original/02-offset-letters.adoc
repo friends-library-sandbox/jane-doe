@@ -4,6 +4,10 @@ Lorem ipsum schmolor sit amet, consectetur adipisicing elit, sed do eiusmod temp
 incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
 exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
+Do some things.
+
+Things are cool and fast!
+
 [.offset]
 +++[+++From Amsterdam he wrote to his friend Richard Shackleton,
 under date of 17th of seventh month, from which the following is extracted:]--
@@ -25,6 +29,8 @@ I am, your very affectionate friend,
 Samuel Neale.
 
 --
+
+can i type super fasdt because i amd a good typer?
 
 Lorem ipsum schmolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
 incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
