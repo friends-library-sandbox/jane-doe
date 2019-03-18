@@ -5,13 +5,13 @@ incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr
 exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 Original Edition::
-Thou takest up Cain's weapons, and fain wouldst thou kill thy brother,
+Thou takest up Cain`'s weapons, and fain wouldst thou kill thy brother,
 because his sacrifice in the faith testifies against thine.
 
 This Edition::
-You take up Cain's weapons, and you would eagerly kill your brother,
+You take up Cain`'s weapons, and you would eagerly kill your brother,
 because his sacrifice in the faith testifies against yours.
 
-Lorem ipsum schmolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
+Lorem ipsum _schmolor_ sit amet, consectetur adipisicing elit, sed do eiusmod tempor
 incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
 exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
